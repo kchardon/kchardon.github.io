@@ -6,11 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# CV markdown
-style:  kjhealy
-
-
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Katia Chardon"
@@ -159,7 +154,6 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - cv.md
   - files
 exclude:
   - "*.sublime-project"
