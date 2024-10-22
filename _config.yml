@@ -6,12 +6,17 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# CV markdown
+style:  kjhealy
+
+
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Katia Chardon"
 title_separator          : "-"
 name                     : &name "Katia Chardon"
-description              : &description "PhD student in AI and Neurosciences"
+description              : &description "PhD student in Artificial Intelligence and Neurosciences"
 url                      : https://kchardon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kchardon/kchardon.github.io"
@@ -24,7 +29,7 @@ author:
   avatar           : "profile.png"
   name             : "Katia Chardon"
   pronouns         : "she/her"  
-  bio              : "PhD student in AI and Neurosciences"
+  bio              : "PhD student in Artificial Intelligence and Neurosciences"
   location         : # "Earth"
   employer         : "NeuroSpin, Paris Saclay"
   uri              : # URL
@@ -211,13 +216,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -245,15 +244,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -263,15 +253,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
