@@ -14,7 +14,7 @@ PhD student in Artificial Intelligence and Neurosciences
 
 <div id="webaddress">
 <a href="katiachardon@outlook.fr">katiachardon@outlook.fr</a> |
-<a href="https://kchardon.github.io/">kchardon.github.io/</a> |
+<a href="https://kchardon.github.io">kchardon.github.io/</a> |
 <a href="https://www.linkedin.com/in/katiachardon">linkedin/katiachardon</a>
 </div>
 
@@ -34,7 +34,7 @@ Machine Learning, Computer Vision, Neuroimaging.
 `November 2024 - now`
 __Neurophysics team, NeuroSpin, CEA, France__
 
-- Under the direction of Davide Boido, Luisa Ciobanu and Charles Laidi.
+- PhD under the direction of Davide Boido, Luisa Ciobanu and Charles Laidi.
 - Functional connectivity and excitability of the cerebellum in schizophrenia patients and mouse models.
 
 `April - October 2024`
@@ -52,7 +52,7 @@ __PARIETAL team, INRIA Saclay, France__
 `September 2022 - May 2023`
 __Maison du doctorat, Université Paris-Saclay, France__
 
-- Under the direction of Hamida Muller.
+- Working under the direction of Hamida Muller.
 - Civic Service. Ambassador of the medical and social support systems for doctoral students.
 
 `May - June 2021`
@@ -125,7 +125,8 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 -->
 
-
-### 
+<!--
+### Footer
 
 Last updated: October 2024
+-->
