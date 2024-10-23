@@ -14,7 +14,7 @@ PhD student in Artificial Intelligence and Neurosciences
 
 <div id="webaddress">
 <a href="katiachardon@outlook.fr">katiachardon@outlook.fr</a> |
-<a href="https://kchardon.github.io">kchardon.github.io/</a> |
+<a href="https://kchardon.github.io">kchardon.github.io</a> |
 <a href="https://www.linkedin.com/in/katiachardon">linkedin/katiachardon</a>
 </div>
 
