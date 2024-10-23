@@ -9,46 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Katia Chardon
+PhD student in Artificial Intelligence and Neurosciences
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="katiachardon@outlook.fr">katiachardon@outlook.fr</a>
+<a href="https://kchardon.github.io/">kchardon.github.io/</a>
+<a href="https://www.linkedin.com/in/katiachardon">linkedin/katiachardon</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+PhD student in the Neurophysics team at NeuroSpin, Paris Saclay, working on Functional connectivity and excitability of the cerebellum in schizophrenia patients and mouse models.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Computer Vision, Neuroimaging.
+
+
+## Work Experience
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - 2024`
+__Institut Polytechnique de Paris, France__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master 2 Data and AI. Subjects : Image mining and content-based retrieval, Natural Language Processing and Speech Processing, Advanced Deep Learning, Deep Learning for Computer Vision, Medical Imaging, Representation Learning for Computer Vision and Medical Imaging, Neurosciences.
+- President of IPPERMACULTURE, a shared garden project on the campus.
 
-- Sizar
+`2022 - 2023`
+__Institut Polytechnique de Paris, France__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master 1 Data and AI. Subjects : Data Visualization, Data Bases, Advanced Machine Learning and Autonomus Agents, Natural Language Processing, Reinforcement learning, Computer vision, Data Stream Mining, Introduction to Deep Learning.
+- Team leader of the communication team of the IPP Racing Team.
 
-- Fellow
+`2021 - 2022`
+__University of Helsinki, Finland__
 
+- Semester abroad. Subjects : Introduction to Machine Learning and Artificial Intelligence, Project in Data Science.
 
+`2019 - 2022`
+__Université de Bordeaux, France__
 
+- Master's Degree in Statistical Engineering and Computer Science - Bachelor.
+
+<!--
 ## Awards
 
 `2012`
@@ -60,7 +69,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) 
 
 ### Journals
 
@@ -88,11 +97,9 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
+-->
 
 
+### Footer
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: October 2024
