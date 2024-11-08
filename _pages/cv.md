@@ -19,16 +19,6 @@ PhD student in Artificial Intelligence and Neurosciences
 </div>
 
 
-## Currently
-
-PhD student in the Neurophysics team at NeuroSpin, Paris-Saclay, working on Functional connectivity and excitability of the cerebellum in schizophrenia patients and mouse models.
-
-
-### Research interests
-
-Machine Learning, Computer Vision, Neuroimaging.
-
-
 ## Work Experience
 
 `November 2024 - now`
@@ -88,20 +78,26 @@ __Université de Bordeaux, France__
 
 - Bachelor. Master's Degree in Statistical Engineering and Computer Science.
 
-<!--
+
 ## Skills
 
-Language Skills
+__Languages:__
+- French (Native)
+- English (B2, TOEFL 610 pts)
+- Spanish (B1, DELE)
+- Russian (Native)
 
-Programming: 
+__Programming Languages:__
+- Python (numpy, pandas, scikit-learn, pytorch)
+- R
+- C/C++
+- MATLAB
+- SQL
 
-Hobbies
-
-Version control ?  git
-
-Software
--->
-
+__Software and Tools:__
+- Git
+- FSL
+- SPM
 
 <!--
 ## Publications
