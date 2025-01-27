@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Katia Chardon
-PhD student in Artificial Intelligence and Neurosciences
+PhD student in Neuroimaging and Artificial Intelligence
 
 <div id="webaddress">
 <a href="katiachardon@outlook.fr">katiachardon@outlook.fr</a> |
