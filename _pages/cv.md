@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[French CV](https://github.com/kchardon/kchardon/blob/main/CV_FR.pdf)
-[English CV](https://github.com/kchardon/kchardon/blob/main/CV_EN.pdf)
+[French CV](https://kchardon.github.io/files/CV_FR.pdf)
+
+[English CV](https://kchardon.github.io/files/CV_EN.pdf)
