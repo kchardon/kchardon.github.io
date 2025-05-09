@@ -21,7 +21,7 @@ repository               : "kchardon/kchardon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Katia Chardon"
   pronouns         : "she/her"  
   bio              : "PhD student in Neuroimaging and Artificial Intelligence"
